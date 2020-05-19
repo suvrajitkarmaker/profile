@@ -433,7 +433,7 @@ footer {
 }
 .education .box{
   height: 160px;
-  width: 500px;
+/*   width: 500px; */
   justify-content: center;
   transition: all 0.4s ease-in-out;
 }
