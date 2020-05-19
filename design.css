@@ -101,6 +101,7 @@ body {
 .main_content {
   margin-left: 200px;
   display: flex;
+  width: 100vw;
   flex-direction: column;
 }
 .main_content .header {
