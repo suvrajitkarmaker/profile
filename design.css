@@ -621,10 +621,6 @@ footer {
     padding-left: 10%;
     padding-right: 10%;
   }
-	.education .box{
-	  height: 200px;
-	  width: 400px;
-	}
 }
 @media only screen and (max-height: 630px) {
   
