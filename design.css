@@ -99,7 +99,6 @@ body {
   color: black;
 }
 .main_content {
-  width: 100vw;	
   margin-left: 200px;
   display: flex;
   flex-direction: column;
